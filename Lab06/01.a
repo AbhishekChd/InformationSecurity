@@ -1,0 +1,10 @@
+P = 23, G = 50
+User 1 Private Key: 4	 User 2 Private Key: 8
+User 1 Key Generated: 3	 User 2 Key Generated: 9
+User 1 Secret Key: 6	 User 2 Secret Key: 6
+
+P = 23, G = 9
+User 1 Private Key: 4	 User 2 Private Key: 3
+User 1 Key Generated: 6	 User 2 Key Generated: 16
+User 1 Secret Key: 9	 User 2 Secret Key: 9
+
