@@ -1,0 +1,15 @@
+Message: 0123456789ABCDEF
+Key    : 133457799BBCDFF1
+[Encryption]	Cipher Text:	85E813540F0AB405
+[Decryption]	Plain Text :	0123456789ABCDEF
+
+Message: 14A7D67818CA18AD
+Key    : AABB09182736CCDD
+[Encryption]	Cipher Text:	0D91B317F940691C
+[Decryption]	Plain Text :	14A7D67818CA18AD
+
+Message: 416268697368656b
+Key    : AABB09182736CCDD
+[Encryption]	Cipher Text:	1629CF205478506E
+[Decryption]	Plain Text :	416268697368656B
+
